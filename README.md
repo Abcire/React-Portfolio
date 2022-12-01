@@ -1,2 +1,0 @@
-# teamProjrects
-Team Projects
